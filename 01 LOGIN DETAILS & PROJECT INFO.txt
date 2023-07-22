@@ -4,6 +4,8 @@
 
 **Developed by Mohammed Shafraz**
 
+**Personnalisé par HIMOU Mahamadou mansour**
+
 **Recommended PHP Version 5.6 or Newer**
 
 
